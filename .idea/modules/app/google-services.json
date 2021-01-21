@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "522428427928",
+    "firebase_url": "https://foododeringapp-7b4c0.firebaseio.com",
+    "project_id": "foododeringapp-7b4c0",
+    "storage_bucket": "foododeringapp-7b4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522428427928:android:3781cfca4e22af9b006aed",
+        "android_client_info": {
+          "package_name": "com.example.foododeringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522428427928-76pftkn6t4v1vnesb7ccch7h03frbijo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foododeringapp",
+            "certificate_hash": "c8f5855bfa9e8600b7081a148df81568c854c37d"
+          }
+        },
+        {
+          "client_id": "522428427928-uoj8ov0lo7m45upvcrtg0mc254ltaa76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzj3tHGhpaZEzfvxLWCeIKzZ6OdPwsny8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522428427928-uoj8ov0lo7m45upvcrtg0mc254ltaa76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
